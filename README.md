@@ -1,4 +1,4 @@
-# Automacao de Relatorios de Vendas
+# Automação de Relatorios de Vendas
 
 Este projeto tem como objetivo consolidar dados de vendas, gerar um relatorio em Excel e envia-lo automaticamente por e-mail utilizando Python.
 
